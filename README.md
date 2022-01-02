@@ -25,6 +25,13 @@ Access with process.env.KEYNAME
 `npm install bcrypt`
 [bcrypt](https://www.npmjs.com/package/bcrypt)
 
+## Level Five - Use Passport.js to add cookies and sessions
+npm install 
+passport
+passport-local
+passport-local-mongoose
+express-session
+
 
 
 
