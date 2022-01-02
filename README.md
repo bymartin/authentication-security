@@ -17,9 +17,15 @@ Add environment variables on new lines in the form of NAME=VALUE.
 
 Access with process.env.KEYNAME
 
-## Level Three - Hashing passwords
+## Level Three - Hashing passwords with MD5
 `npm i md5`
 [md5](https://www.npmjs.com/package/md5)
+
+## Level Four - Salting and Hashing passwords with bcrypt
+`npm install bcrypt`
+[bcrypt](https://www.npmjs.com/package/bcrypt)
+
+
 
 
 
